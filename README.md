@@ -17,7 +17,7 @@ This project was a great way for me to get a deep understanding of the mechanics
 
 ```
 student-performance-predictor/
-├── Student_performance_data.py    # The main Python script
+├── Student_gpa_prediction.py    # The main Python script
 ├── Student_performance_data.csv   # The dataset used for this project
 ├── Student_performance_data.pdf   # Additional project documentation
 └── README.md                      # This documentation
